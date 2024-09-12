@@ -8,10 +8,7 @@ assignees: ''
 ---
 
 As a user
-I need a search bar
-so that I can search for clubs
+I need
+So that
 
 Gherkin:
-Given I am typing a club name in the search bar
-When I click "search" 
-Then the club should be found and displayed on the webpage
